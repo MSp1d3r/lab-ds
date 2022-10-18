@@ -4,3 +4,5 @@
 ## Ignite Lab - Portal
 
 Projeto Desenvolvido durante o Ignite Lab 03
+
+![preview](Ignite-lab-designSystem.png)
